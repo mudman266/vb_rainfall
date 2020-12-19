@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter6\Rainfall\bin\Debug\Rainfall.exe.config
+C:\School\CSC-139\Chapter6\Rainfall\bin\Debug\Rainfall.exe
+C:\School\CSC-139\Chapter6\Rainfall\bin\Debug\Rainfall.pdb
+C:\School\CSC-139\Chapter6\Rainfall\bin\Debug\Rainfall.xml
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.frmMain.resources
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.Resources.resources
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.exe
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.xml
+C:\School\CSC-139\Chapter6\Rainfall\obj\Debug\Rainfall.pdb
